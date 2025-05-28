@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1KXIfIjLRvQsRPfmm6oW73ejYt2d6R2P5
+  /:
+    url: https://content.da.live/ryansunxl/aem-test/
+    type: markup
